@@ -1,0 +1,6 @@
+projectKey=Application1-Scan-Windows
+serverUrl=http://192.168.184.173:9000
+serverVersion=9.7.1.62043
+dashboardUrl=http://192.168.184.173:9000/dashboard?id=Application1-Scan-Windows
+ceTaskId=AYUPUIWoGn1MeOvf7Pr3
+ceTaskUrl=http://192.168.184.173:9000/api/ce/task?id=AYUPUIWoGn1MeOvf7Pr3
